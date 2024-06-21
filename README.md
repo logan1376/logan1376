@@ -1,5 +1,7 @@
 ## Hi there 👋
+Pronouns: he/him
 
+Hey there! I'm logan1376, I live in Nyc and I'm 17 years old. I enjoy playing games and tinkering with code in my free time. Always up for a challenge or a round of bedwars.
 <!--
 **logan1376/logan1376** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
